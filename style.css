@@ -1,0 +1,49 @@
+.center {
+    border-radius: 1.2rem;
+    margin: 1rem;
+    padding: 5rem;
+    display: flex;
+    justify-content: center; 
+}
+
+button {
+        padding: 1.5em;
+        border-radius: 0.5em;
+        border: 1px solid #ffff00;
+        background-color: #000000;
+        color:#ffff00;
+        font-family: Days One;
+        font-size: 125%;
+    }
+
+button:hover {
+        cursor: url(https://cur.cursors-4u.net/others/oth-1/oth28.cur), auto !important;
+        box-shadow: 0 0 0.3em #A2ADB0;
+    }
+    
+h1 {
+        font-size: 200%;
+        text-align: center;
+    }
+h2 {
+        text-align: center;
+}
+
+body {
+        background-color: #628793;
+        font-family: Days One;
+    }
+
+.results {
+        text-align: justify;
+        color: #ffff00;
+        background-color: black;
+        border: 1px solid #ffff00;
+        border-radius: 1.2rem;
+        margin: 1rem;
+        padding: 8rem;
+        display: flex;
+        justify-content: center;
+        
+        gap: 0.75rem;
+}
